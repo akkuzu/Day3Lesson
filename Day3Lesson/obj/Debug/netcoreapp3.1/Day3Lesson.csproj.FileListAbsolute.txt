@@ -1,0 +1,13 @@
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\obj\Debug\netcoreapp3.1\Day3Lesson.csprojAssemblyReference.cache
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\obj\Debug\netcoreapp3.1\Day3Lesson.AssemblyInfoInputs.cache
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\obj\Debug\netcoreapp3.1\Day3Lesson.AssemblyInfo.cs
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\obj\Debug\netcoreapp3.1\Day3Lesson.csproj.CoreCompileInputs.cache
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\bin\Debug\netcoreapp3.1\Day3Lesson.exe
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\bin\Debug\netcoreapp3.1\Day3Lesson.deps.json
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\bin\Debug\netcoreapp3.1\Day3Lesson.runtimeconfig.json
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\bin\Debug\netcoreapp3.1\Day3Lesson.runtimeconfig.dev.json
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\bin\Debug\netcoreapp3.1\Day3Lesson.dll
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\bin\Debug\netcoreapp3.1\Day3Lesson.pdb
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\obj\Debug\netcoreapp3.1\Day3Lesson.dll
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\obj\Debug\netcoreapp3.1\Day3Lesson.pdb
+C:\Users\akkuz\source\repos\Day3Lesson\Day3Lesson\obj\Debug\netcoreapp3.1\Day3Lesson.genruntimeconfig.cache

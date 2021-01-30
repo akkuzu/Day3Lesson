@@ -1,0 +1,13 @@
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.exe
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.deps.json
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.runtimeconfig.json
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.runtimeconfig.dev.json
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.dll
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\bin\Debug\netcoreapp3.1\Mathematics.pdb
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.csprojAssemblyReference.cache
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.AssemblyInfoInputs.cache
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.AssemblyInfo.cs
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.csproj.CoreCompileInputs.cache
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.dll
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.pdb
+C:\Users\akkuz\source\repos\Day3Lesson\Mathematics\obj\Debug\netcoreapp3.1\Mathematics.genruntimeconfig.cache
